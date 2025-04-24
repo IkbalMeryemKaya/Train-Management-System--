@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "train.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "file_ops.h": "c",
+        "text_encoding": "c",
+        "typeinfo": "c"
+    }
+}
